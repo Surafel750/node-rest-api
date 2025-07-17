@@ -8,3 +8,6 @@ Day-to-day progress notes.
 ## 2025-07-11
 - JWT auth working. register + login endpoints tested with Postman
 
+## 2025-07-17
+- Added helmet and cors middleware. Tested preflight requests
+
