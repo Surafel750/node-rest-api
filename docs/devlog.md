@@ -11,3 +11,6 @@ Day-to-day progress notes.
 ## 2025-07-17
 - Added helmet and cors middleware. Tested preflight requests
 
+## 2025-07-30
+- User CRUD done. Fixed populate issue when listing users
+
