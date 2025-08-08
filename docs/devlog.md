@@ -14,3 +14,6 @@ Day-to-day progress notes.
 ## 2025-07-30
 - User CRUD done. Fixed populate issue when listing users
 
+## 2025-08-08
+- Added express-rate-limit: 100 req per 15 min. Prevents brute-force on auth
+
