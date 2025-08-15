@@ -17,3 +17,6 @@ Day-to-day progress notes.
 ## 2025-08-08
 - Added express-rate-limit: 100 req per 15 min. Prevents brute-force on auth
 
+## 2025-08-15
+- Started logger middleware. Logs method, URL, status, response time in colour
+
