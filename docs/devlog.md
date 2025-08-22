@@ -20,3 +20,6 @@ Day-to-day progress notes.
 ## 2025-08-15
 - Started logger middleware. Logs method, URL, status, response time in colour
 
+## 2025-08-22
+- errorHandler: centralised so no more try/catch boilerplate in every route
+
