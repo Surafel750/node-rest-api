@@ -23,3 +23,6 @@ Day-to-day progress notes.
 ## 2025-08-22
 - errorHandler: centralised so no more try/catch boilerplate in every route
 
+## 2025-09-04
+- Post model added. Used $text index for full-text search on title and body
+
