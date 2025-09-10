@@ -26,3 +26,6 @@ Day-to-day progress notes.
 ## 2025-09-04
 - Post model added. Used $text index for full-text search on title and body
 
+## 2025-09-10
+- Post controller: pagination done. Default 10 posts per page, supports ?page=N&limit=M
+
