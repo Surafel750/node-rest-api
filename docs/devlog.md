@@ -29,3 +29,6 @@ Day-to-day progress notes.
 ## 2025-09-10
 - Post controller: pagination done. Default 10 posts per page, supports ?page=N&limit=M
 
+## 2025-09-16
+- Added POST /api/posts — requires JWT. Non-auth users can only GET
+
