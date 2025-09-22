@@ -32,3 +32,6 @@ Day-to-day progress notes.
 ## 2025-09-16
 - Added POST /api/posts — requires JWT. Non-auth users can only GET
 
+## 2025-09-22
+- Docker: api + mongo running together with compose. One command setup works
+
