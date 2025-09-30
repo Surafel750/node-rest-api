@@ -35,3 +35,6 @@ Day-to-day progress notes.
 ## 2025-09-22
 - Docker: api + mongo running together with compose. One command setup works
 
+## 2025-09-30
+- Added tag filtering to posts: ?tag=javascript returns matching posts only
+
