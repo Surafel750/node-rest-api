@@ -38,3 +38,6 @@ Day-to-day progress notes.
 ## 2025-09-30
 - Added tag filtering to posts: ?tag=javascript returns matching posts only
 
+## 2025-10-04
+- Refactored app.js: extracted routes into separate files. Much cleaner now
+
