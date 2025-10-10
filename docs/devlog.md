@@ -41,3 +41,6 @@ Day-to-day progress notes.
 ## 2025-10-04
 - Refactored app.js: extracted routes into separate files. Much cleaner now
 
+## 2025-10-10
+- Added input validation with express-validator on register/login
+
