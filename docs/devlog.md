@@ -44,3 +44,6 @@ Day-to-day progress notes.
 ## 2025-10-10
 - Added input validation with express-validator on register/login
 
+## 2025-10-17
+- Mongoose: added pre-save hook to hash password. Prevents plain-text storage
+
