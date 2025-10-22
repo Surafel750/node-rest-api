@@ -47,3 +47,6 @@ Day-to-day progress notes.
 ## 2025-10-17
 - Mongoose: added pre-save hook to hash password. Prevents plain-text storage
 
+## 2025-10-22
+- Added health check endpoint: GET /api/health returns uptime and version
+
