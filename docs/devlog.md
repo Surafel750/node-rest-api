@@ -50,3 +50,6 @@ Day-to-day progress notes.
 ## 2025-10-22
 - Added health check endpoint: GET /api/health returns uptime and version
 
+## 2025-10-29
+- Switched from nodemon to node --watch in dev. No extra dependency needed
+
