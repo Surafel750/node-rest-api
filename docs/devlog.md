@@ -53,3 +53,6 @@ Day-to-day progress notes.
 ## 2025-10-29
 - Switched from nodemon to node --watch in dev. No extra dependency needed
 
+## 2025-11-05
+- Fixed CORS: added credentials:true for cookie support in browser
+
