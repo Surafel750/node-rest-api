@@ -56,3 +56,6 @@ Day-to-day progress notes.
 ## 2025-11-05
 - Fixed CORS: added credentials:true for cookie support in browser
 
+## 2025-11-12
+- Dockerised the full stack. api + mongo with named volumes for persistence
+
