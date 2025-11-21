@@ -59,3 +59,6 @@ Day-to-day progress notes.
 ## 2025-11-12
 - Dockerised the full stack. api + mongo with named volumes for persistence
 
+## 2025-11-21
+- Updated mongoose to 8.x. Migrated connection options to new API
+
