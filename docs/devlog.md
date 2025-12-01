@@ -62,3 +62,6 @@ Day-to-day progress notes.
 ## 2025-11-21
 - Updated mongoose to 8.x. Migrated connection options to new API
 
+## 2025-12-01
+- Exam season — keeping commits small. Reading Node.js internals
+
