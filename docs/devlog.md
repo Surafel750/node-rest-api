@@ -65,3 +65,6 @@ Day-to-day progress notes.
 ## 2025-12-01
 - Exam season — keeping commits small. Reading Node.js internals
 
+## 2025-12-10
+- Fixed post update: only author can update their own post (ownership check)
+
