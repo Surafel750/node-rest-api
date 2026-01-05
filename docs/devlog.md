@@ -68,3 +68,6 @@ Day-to-day progress notes.
 ## 2025-12-10
 - Fixed post update: only author can update their own post (ownership check)
 
+## 2026-01-05
+- New year: planning to add JWT refresh tokens in Q1
+
