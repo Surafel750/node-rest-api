@@ -71,3 +71,6 @@ Day-to-day progress notes.
 ## 2026-01-05
 - New year: planning to add JWT refresh tokens in Q1
 
+## 2026-01-12
+- Added pagination metadata to API responses: total, page, pages
+
