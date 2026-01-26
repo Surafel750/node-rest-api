@@ -77,3 +77,6 @@ Day-to-day progress notes.
 ## 2026-01-19
 - Posts: added views counter. Increments atomically on GET /api/posts/:id
 
+## 2026-01-26
+- Switched error logging to structured format. Easier to parse in production
+
