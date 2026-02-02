@@ -80,3 +80,6 @@ Day-to-day progress notes.
 ## 2026-01-26
 - Switched error logging to structured format. Easier to parse in production
 
+## 2026-02-02
+- Fixed: deleted user's posts weren't cleaned up. Added cascade delete logic
+
