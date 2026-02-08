@@ -83,3 +83,6 @@ Day-to-day progress notes.
 ## 2026-02-02
 - Fixed: deleted user's posts weren't cleaned up. Added cascade delete logic
 
+## 2026-02-08
+- Upgraded Node.js to 20 LTS. Updated Dockerfile base image
+
