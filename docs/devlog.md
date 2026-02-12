@@ -86,3 +86,6 @@ Day-to-day progress notes.
 ## 2026-02-08
 - Upgraded Node.js to 20 LTS. Updated Dockerfile base image
 
+## 2026-02-12
+- Added search endpoint: GET /api/posts?search=keyword uses $text index
+
