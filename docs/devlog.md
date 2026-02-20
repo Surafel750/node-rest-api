@@ -89,3 +89,6 @@ Day-to-day progress notes.
 ## 2026-02-12
 - Added search endpoint: GET /api/posts?search=keyword uses $text index
 
+## 2026-02-20
+- Post tags: added lowercase normalization. 'Python' and 'python' → same tag
+
