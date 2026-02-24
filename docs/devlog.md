@@ -92,3 +92,6 @@ Day-to-day progress notes.
 ## 2026-02-20
 - Post tags: added lowercase normalization. 'Python' and 'python' → same tag
 
+## 2026-02-24
+- Improved JWT: added user role in token payload. Ready for role-based access
+
