@@ -95,3 +95,6 @@ Day-to-day progress notes.
 ## 2026-02-24
 - Improved JWT: added user role in token payload. Ready for role-based access
 
+## 2026-03-04
+- Added MongoDB aggregation pipeline for post analytics (views, tag counts)
+
