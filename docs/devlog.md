@@ -98,3 +98,6 @@ Day-to-day progress notes.
 ## 2026-03-04
 - Added MongoDB aggregation pipeline for post analytics (views, tag counts)
 
+## 2026-03-10
+- Fixed: rate limiter was resetting on each deploy. Added Redis store option
+
