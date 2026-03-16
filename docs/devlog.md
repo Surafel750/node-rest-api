@@ -101,3 +101,6 @@ Day-to-day progress notes.
 ## 2026-03-10
 - Fixed: rate limiter was resetting on each deploy. Added Redis store option
 
+## 2026-03-16
+- Added GET /api/users/me endpoint. Returns current user from JWT
+
