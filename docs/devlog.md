@@ -104,3 +104,6 @@ Day-to-day progress notes.
 ## 2026-03-16
 - Added GET /api/users/me endpoint. Returns current user from JWT
 
+## 2026-03-20
+- Improved error messages: 'User not found' instead of generic 404
+
