@@ -107,3 +107,6 @@ Day-to-day progress notes.
 ## 2026-03-20
 - Improved error messages: 'User not found' instead of generic 404
 
+## 2026-03-26
+- Updated README: added Postman collection export link
+
