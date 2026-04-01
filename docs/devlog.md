@@ -110,3 +110,6 @@ Day-to-day progress notes.
 ## 2026-03-26
 - Updated README: added Postman collection export link
 
+## 2026-04-01
+- Added bcrypt cost factor to env config. Default 12, can tune for performance
+
