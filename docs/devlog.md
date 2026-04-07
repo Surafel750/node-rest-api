@@ -113,3 +113,6 @@ Day-to-day progress notes.
 ## 2026-04-01
 - Added bcrypt cost factor to env config. Default 12, can tune for performance
 
+## 2026-04-07
+- Posts: added published/draft toggle. Draft posts hidden from public GET
+
