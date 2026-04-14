@@ -116,3 +116,6 @@ Day-to-day progress notes.
 ## 2026-04-07
 - Posts: added published/draft toggle. Draft posts hidden from public GET
 
+## 2026-04-14
+- Refactored controllers: consistent response format {success, data/error}
+
