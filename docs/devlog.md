@@ -119,3 +119,6 @@ Day-to-day progress notes.
 ## 2026-04-14
 - Refactored controllers: consistent response format {success, data/error}
 
+## 2026-04-20
+- docker-compose: added restart: unless-stopped for reliability
+
