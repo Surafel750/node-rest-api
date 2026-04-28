@@ -122,3 +122,6 @@ Day-to-day progress notes.
 ## 2026-04-20
 - docker-compose: added restart: unless-stopped for reliability
 
+## 2026-04-28
+- Added API versioning: all routes now under /api/v1/
+
