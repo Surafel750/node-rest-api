@@ -1,0 +1,12 @@
+const router = require('express').Router()
+const auth = require('../middleware/auth')
+const { getAll, getOne, create, update, remove } = require('../controllers/postController')
+
+router.get('/', getAll)
+router.get('/:id', getOne)
+router.use(auth)
+router.post('/', create)
+router.put('/:id', update)
+router.delete('/:id', remove)
+
+module.exports = router
