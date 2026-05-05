@@ -125,3 +125,6 @@ Day-to-day progress notes.
 ## 2026-04-28
 - Added API versioning: all routes now under /api/v1/
 
+## 2026-05-05
+- Added Swagger/OpenAPI docs at /api/docs. Auto-generated from JSDoc
+
