@@ -128,3 +128,6 @@ Day-to-day progress notes.
 ## 2026-05-05
 - Added Swagger/OpenAPI docs at /api/docs. Auto-generated from JSDoc
 
+## 2026-05-11
+- Post comments: schema designed, controller next
+
