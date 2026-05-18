@@ -131,3 +131,6 @@ Day-to-day progress notes.
 ## 2026-05-11
 - Post comments: schema designed, controller next
 
+## 2026-05-18
+- Security audit: added Mongoose sanitize to prevent NoSQL injection
+
