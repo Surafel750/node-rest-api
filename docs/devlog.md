@@ -137,3 +137,6 @@ Day-to-day progress notes.
 ## 2026-05-22
 - Comment model + routes done. Nested under posts: /api/v1/posts/:id/comments
 
+## 2026-06-04
+- Upgraded to Express 5 beta. Error handling is now async-safe by default
+
