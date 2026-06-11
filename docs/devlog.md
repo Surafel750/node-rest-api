@@ -140,3 +140,6 @@ Day-to-day progress notes.
 ## 2026-06-04
 - Upgraded to Express 5 beta. Error handling is now async-safe by default
 
+## 2026-06-11
+- Final exam prep. Still pushing small fixes. Consistent streaks matter
+
