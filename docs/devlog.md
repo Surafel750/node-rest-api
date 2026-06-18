@@ -143,3 +143,6 @@ Day-to-day progress notes.
 ## 2026-06-11
 - Final exam prep. Still pushing small fixes. Consistent streaks matter
 
+## 2026-06-18
+- Added integration tests using Jest + supertest. 18 tests passing
+
